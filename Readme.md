@@ -37,9 +37,9 @@ Anime wallpapers that emphasize **emotion, atmosphere, and composition** over vi
 
 ```text
 anime/
- ┣ 💕 waifus         – favorite characters and portraits
  ┣ 🖥️ desktop        – wide-format anime wallpapers
- ┣ ⚔️ action         – dynamic and high-energy scenes
+ ┣ ⚔️ liveDesktop    – dynamic and "alive" lively wallpapers
+ ┣ 💕 waifus         – favorite characters and portraits
  ┗ 🗂️ misc           – uncategorized anime aesthetics
 ```
 
