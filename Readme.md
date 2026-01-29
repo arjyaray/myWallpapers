@@ -127,6 +127,6 @@ If you are a creator and want credit or removal, open an issue — respect comes
 🌌 **If this repository matches your vibe**  
 ⭐ Star it and check back later — it will grow with time
 
-*Curated with taste by Aman*
+*Curated with taste by Arjya*
 
 </div>
