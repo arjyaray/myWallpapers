@@ -31,16 +31,21 @@ Small today. Refined over time. Always aesthetic-first.
 
 ## 📁 Repository Structure
 
-### 📺 Anime
+### 🧑🏻‍🎤 Anime
 
 Anime wallpapers that emphasize **emotion, atmosphere, and composition** over visual noise.
 
 ```text
 anime/
  ┣ 🖥️ desktop        – wide-format anime wallpapers
- ┣ ⚔️ liveDesktop    – dynamic and "alive" lively wallpapers
  ┣ 💕 waifus         – favorite characters and portraits
  ┗ 🗂️ misc           – uncategorized anime aesthetics
+```
+
+###  📺 LiveWallpapers
+```text
+LiveWalls/
+ ┣ 💠 dynamic and "alive" lively wallpapers
 ```
 
 ### 🌑 OneDark
@@ -60,6 +65,7 @@ onedark/
  ┣ 🚆 transportation       – machines in motion
  ┣ 🏙️ urban-architecture  – city geometry & structures
  ┣ 🪟 window-managers     – minimal desktop aesthetics
+ ┣ so on.........
  ┗ 📦 uncategorized       – temporary holding space
 ```
 
