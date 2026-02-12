@@ -42,6 +42,12 @@ anime/
  ┗ 🗂️ misc           – uncategorized anime aesthetics
 ```
 
+###  🖼️ goTo Walls
+```text
+dailyNew/
+ ┣ 💠 uncategorized goto wallpapers which has every type of wallpapers
+ ┣  go for it if u dont wanna think much
+```
 ###  📺 LiveWallpapers
 ```text
 LiveWalls/
