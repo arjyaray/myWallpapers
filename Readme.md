@@ -47,6 +47,11 @@ anime/
 LiveWalls/
  ┣ 💠 dynamic and "alive" lively wallpapers
 ```
+###  🚗 Vehicles
+```text
+Cars/Supercars/Hybrids
+ ┣ 💠 Retro, electric, sports, F1, F2
+```
 
 ### 🌑 OneDark
 
